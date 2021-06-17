@@ -21,3 +21,10 @@ O trabalho deve ser realizado, preferencialmente, em grupos de alunos.
 
 ## Critérios de Avaliação
 Os critérios de correção considerados serão a clareza na descrição dos conceitos e da área, bem como a análise crítica sobre o desenvolvimento e os resultados obtidos. 
+
+
+# Run JupyterLab
+Once installed, launch JupyterLab with:
+```
+jupyter-lab
+```
