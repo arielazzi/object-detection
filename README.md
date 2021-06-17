@@ -4,7 +4,7 @@ Este trabalho possui como objetivos gerais: evidenciar a compreensão do aluno s
 
 ## Etapas previstas
 
-- [ ] Definição dos grupos e do tema.
+- [x] Definição dos grupos e do tema.
 
 - [ ] Modelagem. Definir a representação do problema, das features, das saídas, etc., bem como as técnicas de processamento dos dados. É importante justificar as escolhas, deixando clara sua importância na resolução do problema.
 
