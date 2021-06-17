@@ -1,10 +1,8 @@
 # Classificação de Objetos
 
-## 1) Descrição do trabalho 2
-
 Este trabalho possui como objetivos gerais: evidenciar a compreensão do aluno sobre técnicas de aprendizagem de máquina; proporcionar experiência de análise de artigos com abordagens relacionadas ao estado da arte nestas áreas; fomentar o estudo e a análise crítica das possibilidades de utilização na área escolhida, com experimento prático.
 
-## 2) Etapas previstas
+## Etapas previstas
 
 - [ ] Definição dos grupos e do tema.
 
@@ -18,8 +16,8 @@ Este trabalho possui como objetivos gerais: evidenciar a compreensão do aluno s
 
 - [ ] Apresentação. Elaborar um vídeo com a apresentação do trabalho. Devem ser detalhados os mesmos itens do relatório, mas dando ênfase maior aos aspectos mais importantes, como ideia geral da abordagem escolhida e dos resultados obtidos. O vídeo deve ter uma duração máxima de 5 minutos (este ponto pode ser ajustado se necessário).
 
-## 3) Mais informações
+## Mais informações
 O trabalho deve ser realizado, preferencialmente, em grupos de alunos.
 
-## 4) Critérios de Avaliação
+## Critérios de Avaliação
 Os critérios de correção considerados serão a clareza na descrição dos conceitos e da área, bem como a análise crítica sobre o desenvolvimento e os resultados obtidos. 
